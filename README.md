@@ -10,5 +10,4 @@ Das ist ein Programm, das zu einem eingegebenen Gehalt den Steuerbetrag berechne
 #### verweis
 
 In die Tabelle sind die Steuersätze angegeben.
-
 Es wird davon ausgegangen, dass das gesamte Gehalt zum angegebenen Satz versteuert wird.
